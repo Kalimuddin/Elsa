@@ -5,7 +5,7 @@ import mymodules
 from mymodules.mathy import *
 print(responses[0])
 while True:
-    text=input("Enter some text\n")
+    text=input("Enter some text-\n")
     for word in text.split(' '):
         if word.upper() in operations.keys():
             try:
