@@ -1,6 +1,6 @@
 
 import sys
-sys.path.append("mymodules")
+sys.path.append("/mymodules/")
 import mymodules
 from mymodules.mathy import *
 print(responses[0])
