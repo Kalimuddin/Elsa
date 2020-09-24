@@ -1,4 +1,4 @@
-responses=["welcome to smart calculator","my name is krk","Thanks","Sorry, this is beyond my ability",
+responses=["welcome, my name is Elsa and i am here for helping you","my name is krk","Thanks","Sorry, this is beyond my ability",
            "hello, what can i do for you","yes, he developed me and i am very happy and thanksfull for him"]
 def extract_number_from_text(text):
     l=[]
