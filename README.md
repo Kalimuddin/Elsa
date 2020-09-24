@@ -5,5 +5,8 @@ in which we can communicate or chat with Elsa in friendly manner and ask her to 
 ## Important things used:
 Used some basics of PYTHON and also used hashing concept in the development of Elsa.
 
-## Screenshots of conversation with Elsa:
+## Casual conversation with Elsa:
 ![casual conversation](https://user-images.githubusercontent.com/54996809/94127029-0adbe280-fe76-11ea-835a-ab9757df7a74.PNG)
+
+## Mathematical operation
+![mathematical operation](https://user-images.githubusercontent.com/54996809/94127754-ed5b4880-fe76-11ea-92e4-a2654719d0a0.PNG)
