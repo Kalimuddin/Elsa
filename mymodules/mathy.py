@@ -1,5 +1,5 @@
 responses=["welcome to smart calculator","my name is krk","Thanks","Sorry, this is beyond my ability",
-           "hello, what can i do for you"]
+           "hello, what can i do for you","yes, he developed me and i am very happy and thanksfull for him"]
 def extract_number_from_text(text):
     l=[]
     for t in text.split(" "):
@@ -38,7 +38,9 @@ def hello():
     print(responses[4])
 def sorry():
     print(responses[3])
+def know():
+    print(responses[5])
 operations = {"ADD":add,"ADDITION":add,"SUBTRACTION":sub,"MINUS":sub,"SUBTRACT":sub,"MULTIPLY":multiply,
               "MULTIPLICATION":multiply,"PRODUCT":multiply,"DIVISION":division,"DIVIDE":division,"HCF":hcf,"LCM":lcm}
 commands = {"NAME":myname,"END":end,"CLOSE":end,"EXIT":end,"HELLO":hello,"HII":hello,"HI":hello,"HEY":hello,
-            "HEYY":hello}
+            "HEYY":hello,"KALIMUDDIN":know,"KALIM":know}
