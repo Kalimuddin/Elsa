@@ -1,2 +1,2 @@
-# Friendly-calculator
+## Friendly-calculator
 smart calculator
